@@ -2,7 +2,7 @@
 
 to start:
 
-npm i
+npm install
 
 npm run build
 
