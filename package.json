@@ -1,7 +1,7 @@
 {
-  "name": "app-cards",
+  "name": "template-react-server-side",
   "version": "1.0.0",
-  "description": "Server-side Rendering React from Scratch!",
+  "description": "Server-side Rendering React",
   "main": "index.js",
   "engines": {
     "node": "8.10.0",
@@ -17,6 +17,7 @@
   "license": "CC BY 4.0",
   "dependencies": {
     "express": "^4.16.3",
+    "nodemon": "^2.0.18",
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
   },
